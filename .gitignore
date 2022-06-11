@@ -1,0 +1,15 @@
+*.js
+*.d.ts
+node_modules
+dist
+.parcel-cache
+
+!.eslintrc.js
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+# Local configuration
+config/local.ts
+.env

@@ -1,0 +1,27 @@
+{
+    "name": "login-with-metamask",
+    "version": "0.1.0",
+    "description": "Login with Metamask Demo",
+    "scripts": {
+        "dev": "parcel",
+        "build": "parcel build"
+    },
+    "source": [
+        "src/index.html",
+        "src/home.html"
+    ],
+    "browserslist": [
+        "last 2 years"
+    ],
+    "targets": {
+        "default": {
+            "distDir": "dist"
+        }
+    },
+    "author": "Mark Ilott",
+    "license": "MIT",
+    "dependencies": {
+        "@metamask/onboarding": "^1.0.1",
+        "buffer": "^6.0.3"
+    }
+}

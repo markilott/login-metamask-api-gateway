@@ -1,0 +1,11 @@
+{
+    "name": "create-user",
+    "version": "1.0.0",
+    "description": "Create a new User",
+    "main": "index.js",
+    "author": "Mark Ilott",
+    "license": "MIT",
+    "dependencies": {
+        "metamask-auth-utils": "^1.0.0"
+    }
+}

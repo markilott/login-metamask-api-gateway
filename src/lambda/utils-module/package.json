@@ -1,0 +1,20 @@
+{
+  "name": "metamask-auth-utils",
+  "version": "1.0.0",
+  "description": "Utility functions for Auth functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Ilott",
+  "license": "MIT",
+  "dependencies": {
+    "@metamask/eth-sig-util": "^4.0.1",
+    "base64url": "^3.0.1",
+    "cookie": "^0.5.0",
+    "ethers": "^5.6.8",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.3",
+    "nanoid": "^3.3.4"
+  }
+}

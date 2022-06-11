@@ -1,0 +1,10 @@
+{
+  "name": "metamask-dev",
+  "version": "1.0.0",
+  "description": "NPM Modules required in Dev env",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "metamask-auth-utils": "file:./utils-module"
+  }
+}

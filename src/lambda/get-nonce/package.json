@@ -1,0 +1,11 @@
+{
+    "name": "auth-get-nonce",
+    "version": "1.0.0",
+    "description": "Get nonce string for user",
+    "main": "index.js",
+    "author": "Mark Ilott",
+    "license": "MIT",
+    "dependencies": {
+        "metamask-auth-utils": "^1.0.0"
+    }
+}

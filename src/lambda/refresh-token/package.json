@@ -1,0 +1,11 @@
+{
+  "name": "meta-refresh-token",
+  "version": "1.0.0",
+  "description": "Logout user",
+  "main": "index.js",
+  "author": "Mark Ilott",
+  "license": "MIT",
+  "dependencies": {
+    "metamask-auth-utils": "^1.0.0"
+  }
+}

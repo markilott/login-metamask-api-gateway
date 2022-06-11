@@ -1,0 +1,10 @@
+{
+  "name": "lambda-shared",
+  "version": "1.0.0",
+  "description": "Shared layer",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "metamask-auth-utils": "file:../../utils-module"
+  }
+}
